@@ -13,6 +13,7 @@ O Simulador de Sistema Estelar permite que você crie um universo com um número
   
   ![Diversidade de Planetas](diversidade.png "Diversidade de Planetas")
 - **Controle de Velocidade**: Você pode controlar a velocidade do universo usando um controle deslizante. Isso permite acelerar ou desacelerar o movimento dos planetas.
+- 
   ![Controle de Velocidade](velocidade.png "Controle de Velocidade")
 - **Rastros dos Planetas**: Existem dois tipos de rastros disponíveis para os planetas. O primeiro tipo é um rastro individual que segue cada planeta. O segundo tipo cria uma conexão entre o planeta e o planeta mais próximo, criando uma rede de rastros.
   - Rastro Individual:
