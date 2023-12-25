@@ -10,6 +10,7 @@ O Simulador de Sistema Estelar permite que você crie um universo com um número
 ## Recursos
 
 - **Planetas Dinâmicos**: Cada planeta é criado com uma cor, tamanho e raio de órbita aleatórios. Eles se movem em tempo real, criando um sistema estelar dinâmico e visualmente atraente.
+  
   ![Diversidade de Planetas](diversidade.png "Diversidade de Planetas")
 - **Controle de Velocidade**: Você pode controlar a velocidade do universo usando um controle deslizante. Isso permite acelerar ou desacelerar o movimento dos planetas.
   ![Controle de Velocidade](velocidade.png "Controle de Velocidade")
