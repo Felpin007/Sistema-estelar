@@ -93,7 +93,7 @@ document.getElementById('planet-form').addEventListener('submit', function(event
 
     // Get the form values
     const planetCount = parseInt(document.getElementById('planet-count').value);
-    const distanceRange = parseInt(document.getElementById('distance-range').value);
+    const distanceRange = Math.floor(Math.random() * (50 - 20 + 1)) + 20;
 
     // Hide the form
     document.getElementById('planet-form').style.display = 'none';
