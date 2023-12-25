@@ -1,7 +1,8 @@
 # Simulador de Sistema Estelar
 ## README gerado pela mesma IA usada nos projetos ([PHIND](https://phind.com)).
 
-Bem-vindo ao Simulador de Sistema Estelar! Este projeto é uma aplicação web que permite criar e interagir com um sistema estelar dinâmico diretamente no seu navegador. Ele é construído usando HTML, CSS e JavaScript.
+Bem-vindo ao Simulador de Sistema Estelar! Este projeto é uma aplicação web que permite criar e interagir com um sistema estelar dinâmico diretamente no seu navegador. Ele é construído usando HTML, CSS e JavaScript. 
+
 https://felpin007.github.io/Sistema-estelar/
 
 ## Visão Geral
