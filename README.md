@@ -1,4 +1,5 @@
 # Simulador de Sistema Estelar
+## README gerado pela mesma IA usada nos projetos ([PHIND](https://phind.com)).
 
 Bem-vindo ao Simulador de Sistema Estelar! Este projeto é uma aplicação web que permite criar e interagir com um sistema estelar dinâmico diretamente no seu navegador. Ele é construído usando HTML, CSS e JavaScript.
 
@@ -9,9 +10,16 @@ O Simulador de Sistema Estelar permite que você crie um universo com um número
 ## Recursos
 
 - **Planetas Dinâmicos**: Cada planeta é criado com uma cor, tamanho e raio de órbita aleatórios. Eles se movem em tempo real, criando um sistema estelar dinâmico e visualmente atraente.
+  ![](diversidade.png "Animação com Neve")
 - **Controle de Velocidade**: Você pode controlar a velocidade do universo usando um controle deslizante. Isso permite acelerar ou desacelerar o movimento dos planetas.
+  ![](velocidade.png "Animação com Neve")
 - **Rastros dos Planetas**: Existem dois tipos de rastros disponíveis para os planetas. O primeiro tipo é um rastro individual que segue cada planeta. O segundo tipo cria uma conexão entre o planeta e o planeta mais próximo, criando uma rede de rastros.
+- Rastro Individual:
+  ![](rastro.png "Animação com Neve")
+  Rastro de conexao:
+  ![](rastro2.png "Animação com Neve")
 - **Zonas**: Você pode alternar a visibilidade das zonas ao redor da estrela. Essas zonas são codificadas por cores e podem ser usadas para visualizar diferentes regiões do sistema estelar.
+  ![](zona.png "Animação com Neve")
 
 ## Como Usar
 
