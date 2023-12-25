@@ -25,7 +25,7 @@ O Simulador de Sistema Estelar permite que você crie um universo com um número
 
 ## Como Usar
 
-1. Abra o arquivo `test.html` no seu navegador.
+1. Abra o arquivo `index.html` no seu navegador.
 2. Você verá um formulário pedindo o número de planetas e a velocidade do universo. Insira os valores desejados e clique em "Criar Mundo".
 3. Os planetas aparecerão e começarão a orbitar em torno do cursor do mouse.
 4. Use o controle deslizante de velocidade no canto superior esquerdo da tela para controlar a velocidade do universo.
