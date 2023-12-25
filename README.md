@@ -10,16 +10,16 @@ O Simulador de Sistema Estelar permite que você crie um universo com um número
 ## Recursos
 
 - **Planetas Dinâmicos**: Cada planeta é criado com uma cor, tamanho e raio de órbita aleatórios. Eles se movem em tempo real, criando um sistema estelar dinâmico e visualmente atraente.
-  ![](diversidade.png "Animação com Neve")
+  ![Diversidade de Planetas](diversidade.png "Diversidade de Planetas")
 - **Controle de Velocidade**: Você pode controlar a velocidade do universo usando um controle deslizante. Isso permite acelerar ou desacelerar o movimento dos planetas.
-  ![](velocidade.png "Animação com Neve")
+  ![Controle de Velocidade](velocidade.png "Controle de Velocidade")
 - **Rastros dos Planetas**: Existem dois tipos de rastros disponíveis para os planetas. O primeiro tipo é um rastro individual que segue cada planeta. O segundo tipo cria uma conexão entre o planeta e o planeta mais próximo, criando uma rede de rastros.
-- Rastro Individual:
-  ![](rastro.png "Animação com Neve")
-  Rastro de conexao:
-  ![](rastro2.png "Animação com Neve")
+  - Rastro Individual:
+    ![Rastro Individual](rastro.png "Rastro Individual")
+  - Rastro de Conexão:
+    ![Rastro de Conexão](rastro2.png "Rastro de Conexão")
 - **Zonas**: Você pode alternar a visibilidade das zonas ao redor da estrela. Essas zonas são codificadas por cores e podem ser usadas para visualizar diferentes regiões do sistema estelar.
-  ![](zona.png "Animação com Neve")
+  ![Zonas](zona.png "Zonas")
 
 ## Como Usar
 
@@ -34,13 +34,3 @@ O Simulador de Sistema Estelar permite que você crie um universo com um número
 ## Estrutura do Código
 
 A lógica principal da aplicação está contida no arquivo `script.js`. Este arquivo lida com a criação de planetas, o movimento dos planetas e a interação com a interface do usuário. O arquivo `test.html` contém a estrutura HTML da aplicação, e os estilos CSS estão embutidos neste arquivo.
-
-## Contribuindo
-
-Sinta-se à vontade para fazer um fork deste projeto e fazer suas próprias alterações. Se você tiver alguma sugestão ou melhoria, por favor, envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Divirta-se explorando seu próprio sistema estelar!
